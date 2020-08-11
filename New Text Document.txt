@@ -1,0 +1,8 @@
+/adding follow button with changing text
+	./suggestions after follow button clicked
+	.//number on follow button
+
+//adding function on button(answer) : onclickevent
+
+///dividing screen into two parts 1st for profile posts
+			       2nd for Credentials, Spaces, Knows About
